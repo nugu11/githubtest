@@ -36,7 +36,7 @@ public class main {
 		// 5. 맞은 정답 횟수를 출력
 		System.out.println("정답의 개수는 " + count + "개 입니다.");
 
-		
+		System.out.println("dddddd");
 	}
 
 }
